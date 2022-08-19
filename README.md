@@ -1,5 +1,5 @@
 # Neuroevolition Repo
-This is a place for all of my neuroevolution experiments.  This is where I will test novel ideas (even the very idea of novelty itself).
+This is a place for all of my neuroevolution experiments.
 
 # Contents
 1. MultiNEAT  
